@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">reader</string>
-    <string name="login_redername">Readername</string>
     <string name="login_password">Password</string>
     <string name="login_login">Login</string>
     <string name="login_register">Register</string>
     <string name="login_find_password">FindPassword</string>
+    <string name="login_username">Username</string>
+    <string name="confirm_password">ConfirmPassword</string>
+    <string name="phone">Phone</string>
+    <string name="gender">Gender</string>
+    <string name="gender_male">rMale</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_secret">Secret</string>
+    <string name="birthday">Birthday</string>
+    <string name="birthday_title">Select birthday your please</string>
 </resources>
